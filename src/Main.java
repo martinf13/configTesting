@@ -12,4 +12,11 @@ public class Main {
 
         return c;
     }
+
+    private static int tarikMethod(){
+        int a = 15;
+        int b = 5;
+        int c = a/b;
+        return c;
+    }
 }
