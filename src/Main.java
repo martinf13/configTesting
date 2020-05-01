@@ -19,4 +19,12 @@ public class Main {
         int c = a/b;
         return c;
     }
+
+    private static int tarikMethod2(){
+        int a = 20;
+        int b = 5;
+        int c = a/b;
+        return c;
+    }
+
 }
